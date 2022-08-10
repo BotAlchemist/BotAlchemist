@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
+<h1 align="center">Konnichiwa 👋, I'm Sumit</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/3cd1cff8-a2e2-4e92-b124-b3919ed9a9f0_employee.gif?auto=compress,format">
 - 🔭 I’m currently working on **Classical Music analysis**

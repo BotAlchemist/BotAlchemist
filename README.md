@@ -1,6 +1,6 @@
 <h1 align="center">Konnichiwa 👋, I'm Sumit</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/3cd1cff8-a2e2-4e92-b124-b3919ed9a9f0_employee.gif?auto=compress,format">
+<img align="right" alt="Coding"  src="https://images.prismic.io/smarttask/3cd1cff8-a2e2-4e92-b124-b3919ed9a9f0_employee.gif?auto=compress,format" width="300" height="300">
 - 🔭 I’m currently working on **Classical Music analysis**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sumvast](https://linktr.ee/sumvast)

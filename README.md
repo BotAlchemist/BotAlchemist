@@ -1,13 +1,13 @@
 <h1 align="center">Konnichiwa 👋, I'm Sumit</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 <img align="right" alt="Coding"  src="https://images.prismic.io/smarttask/3cd1cff8-a2e2-4e92-b124-b3919ed9a9f0_employee.gif?auto=compress,format" width="300" height="300">
-- 🔭 I’m currently working on **Classical Music analysis & Movie Recommendation system**
+- :computer: I’m currently working on **Classical Music analysis & Movie Recommendation system**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sumvast](https://linktr.ee/sumvast)
+- :floppy_disk: All of my projects are available at [https://linktr.ee/sumvast](https://linktr.ee/sumvast)
 
-- 💬 Ask me about **data science/analysis/visualization**
+- :bangbang: Ask me about **data science/analysis/visualization**
 
-- 📫 How to reach me **sumvast@gmail.com**
+- :email: Reach me at **sumvast@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
